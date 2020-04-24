@@ -1,4 +1,4 @@
-\]902// to find and list all the prime numbers upto a number n
+// to find and list all the prime numbers upto a number n
 
 #include <stdio.h>
 int main() {
